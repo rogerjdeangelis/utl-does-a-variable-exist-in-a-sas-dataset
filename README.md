@@ -5,7 +5,7 @@
     Does a variable exist in a sas dataset
 
        Three Solutions
-           1. https://www.9to5sas.com/variable-exists-sas/  (not shown
+           1. https://www.9to5sas.com/variable-exists-sas/  (not shown)
            2. Non macro solution (less Klingon)
            3. macro solution (somewhat less Klingon)
            4. Bart's baseplus sas package
